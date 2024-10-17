@@ -30,7 +30,7 @@ def main():
     # get posts from advice animals
     subreddit = reddit.subreddit("adviceanimals").top(time_filter="all", limit=100)
     # put in dataframe
-    posts = [{"title":submission.title, "permalink":submission.permalink, "url":submission.url} for submission in subreddit]
+    posts = [{"caption":submission.title, "permalink":submission.permalink, "image":submission.url} for submission in subreddit]
     advice_frame = pd.DataFrame(posts)
     # fix imgur links to be direct to image
     advice_frame["url"] = np.where(
