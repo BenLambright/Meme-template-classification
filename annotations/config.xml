@@ -5,18 +5,15 @@
   <Text name="caption" value="$caption"/>
   
   <Header value="Transcribe any other image captioning here:"/>
-  <TextArea name="other_captioning" toName="image" placeholder="Add a link to knowyourmeme here" />
+  <TextArea name="other_captioning" toName="image" placeholder="Transcribe here" />
   
   <Header value="Template Category:"/>
   <Choices name="Ontology" toName="image" choice="multiple">
       <Choice value="Image Macro"/>
-      <Choice value="Reaction or Relatable"/>
+      <Choice value="Reaction"/>
     <Choice value="Exploitable"/>
       <Choice value="Duality"/>
     <Choice value="Escalating Progression"/>
-    <Choice value="Surreal or Ironic "/>
-    <Choice value="Mocking / Satire"/>
-    <Choice value="Wholesome Meme"/>
   </Choices>
   
   <Header value="If a link to the general template is known, add it here:"/>
