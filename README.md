@@ -52,9 +52,3 @@ Developed annotation guidelines with a group to have students in the class hand-
 3. For template classification, run `template-classification/reddit_yolo_tests.py` using the `best.pt` in that directory
 4. For gpt prompting, run `gpt-prompting/gpt_prompting.py`
 5. For meta template prompting, run `meta-template/YOLO_meta.py` with `best.pt` in that directory
-
----
-
-## **Directory Structure**
-
-
