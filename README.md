@@ -1,4 +1,4 @@
-# Team-Meme
+# Meme Template and Structure Classification
 Repo for our memo annotation and corpus research
 
 Developed annotation guidelines with a group to have students in the class hand-annotate folklore to identify and classify flora and fauny in stories using brat. Using these annotations, we attempted to classify the archetypal roles flora and fauna play in these stories.
