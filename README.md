@@ -20,7 +20,7 @@ Developed annotation guidelines with a group to have students in the class hand-
 
 - Our dataset was split into two sections: scraped data from imgflip and hand-annotated data from reddit.
 - In total, the imgflip dataset includes 274,748 memes examples, with each meme having one of 2,059 meme templates. Each of these meme templates are templates generated from imgflip.com.
-- There were 243 hand-annotated memes in the reddit dataset, 74 of which did not have a template. Of these memes, in addition to annotating for the template, we annotated for it's meta-template. Inspired by knowyourmeme.com's meme template ontology, these were the 5 most basic categories to describe the strucutre of a meme: image macro, reacion image, exploitable, duality, and escalating progression. For more information on these annotations, see out annotation guidelines, or check knowyourmeme.com.
+- There were 243 hand-annotated memes in the reddit dataset, 74 of which did not have a template. Of these memes, in addition to annotating for the template, we annotated for it's meta-template. Inspired by knowyourmeme.com's meme template ontology, these were the 5 most basic categories to describe the strucutre of a meme: image macro, reacion image, exploitable, duality, and escalating progression. For more information on these annotations, see out annotation guidelines in `annotations`, or check knowyourmeme.com.
 
 ### **Annotation Process**:
 - Two trained annotators dually annotated each meme, annotating the following:
