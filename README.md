@@ -1,7 +1,7 @@
 # Meme Template and Structure Classification
 Repo for our memo annotation and corpus research
 
-Developed annotation guidelines with a group to have students in the class hand-annotate folklore to identify and classify flora and fauny in stories using brat. Using these annotations, we attempted to classify the archetypal roles flora and fauna play in these stories.
+Developed annotation guidelines in an independent study to classify the structure and template of a meme using label studio. Using these annotations, we attempted to classify the templates and overal structure of memes using LLMs and computer vision models.
 
 ---
 
